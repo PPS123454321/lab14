@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+}
+
+p{
+    margin: 0;
+}
+
+.page1{
+    background-color: #EAC7C7;
+    padding: 5.8% 11.5%;
+}
+
+.page1_flex{
+    display: inline-flex;
+}
+
+.heading{
+    color: white;
+    font-size: 144px;
+    margin-top: 10%;
+}
+
+.paws{
+    padding-left: 50px;
+}
+
+.page2{
+    background-color: white;
+    padding: 5.8% 11.5%;
+}
+
+.page2_flex{
+    display: inline-flex;
+}
+
+.hearts{
+    padding: 0 20px;
+}
+
+.text_p2{
+    color: #E49090;
+    font-size: 42px;
+    margin-top: 7%;
+    margin-left: 6%;
+}
+
+.page3{
+    background-color: #EAC7C7;
+    padding: 4% 11.5%;
+}
+
+.page3_flex{
+    display: inline-flex;
+}
+
+.photo4{
+    padding-left: 140px;
+}
+
+.text_p3{
+    color: white;
+    font-size: 32px;
+    margin-top: 5%;
+}
+
+.page4{
+    background-color: white;
+    padding: 0 11.5%;
+    padding-top: 4%;
+}
+
+.page4_flex1{
+    display: inline-flex;
+}
+
+.photo6{
+    padding-left: 50px;
+}
+
+.photo7{
+    padding-left: 50px;
+}
+
+.page4_flex2{
+    display: inline-flex;
+    margin-top: 3%;
+}
+
+.photo9{
+    padding-left: 50px;
+}
+
+.photo10{
+    padding-left: 50px;
+}
+
+.quote{
+    color: #E49090;
+    text-align: center;
+    font-size: 36px;
+    margin-top: 3%;
+}
+
+.signature{
+    color: #E49090;
+    text-align: right;
+    font-size: 36px;
+}
